@@ -1,0 +1,3 @@
+[submodule "Assets/Packages/PyramidBlur"]
+	path = Assets/Packages/PyramidBlur
+	url = https://github.com/nobnak/PyramidBlur.git
