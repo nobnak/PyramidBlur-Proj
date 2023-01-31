@@ -316,7 +316,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   tuner:
     blur:
-      diffusion: 5.37
+      diffusion: 3.72
       fastMode: 0
 --- !u!1 &1433215618
 GameObject:
